@@ -7,9 +7,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "theprojectsomething",
   "license": "MIT",
   "dependencies": {
     "m3u8": "0.0.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theprojectsomething/plyr-stream-thumbs.git"
+  },
+  "keywords": [
+    "Cloudflare",
+    "Stream",
+    "Plyr",
+    "thumbnails",
+    "vtt"
+  ],
+  "bugs": {
+    "url": "https://github.com/theprojectsomething/plyr-stream-thumbs/issues"
+  },
+  "homepage": "https://github.com/theprojectsomething/plyr-stream-thumbs#readme"
 }
