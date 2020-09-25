@@ -1,0 +1,15 @@
+{
+  "name": "plyr-stream-thumbs",
+  "version": "0.1.0",
+  "description": "Generate thumbnails from Cloudflare Stream for use with @sampotts/plyr. Works in Node and the browser.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "m3u8": "0.0.10"
+  }
+}
